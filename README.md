@@ -1,4 +1,4 @@
-# yaminz
+# yaminz Test
 This repository aims for storing the pyhton-related projects and documents that I have done and practiced,which includes following aspects:
 * Data Analysis(Pandas usage):
   - Project Topic: Tianchi - '用Pandas揭秘美国选民的总统喜好'
